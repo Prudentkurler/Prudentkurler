@@ -102,6 +102,14 @@ I code, learn, test ideas, fix what breaks, improve old work, and keep pushing m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prudentkurler&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prudentkurler&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prudentkurler&theme=tokyo-night&hide_border=true&area=true" />
 </p>

@@ -1,63 +1,87 @@
 <div align="center">
 
-# Obed Sarkodie
-
-### Software Engineer • Builder • Problem Solver
-
-I build with purpose, think through problems carefully, and enjoy turning ideas into things people can actually use.
-
-I care about clean work, real usefulness, good communication, and doing the job properly.  
-For me, engineering is not just about writing code. It is about understanding the problem, choosing the right path, and building something that makes sense.
-
-Some days I am designing interfaces.  
-Some days I am working through backend logic.  
-Some days I am debugging until everything finally clicks.
-
-I like figuring things out.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:2563eb&text=Obed%20Sarkodie&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" />
 
 <br/>
 
-[Portfolio](https://my-pf-pi.vercel.app/) • [GitHub](https://github.com/Prudentkurler)
+<p>
+  <a href="https://my-pf-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Prudentkurler">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
----
+<br/>
 
-## A little about me
+## Hey, I’m Obed 👋
 
-I am a software engineer who enjoys building thoughtful, reliable, and user-focused products.
+I am a software engineer who enjoys building useful, reliable, and thoughtful digital products.
 
-I like working with people who care about quality. I learn fast, adapt quickly, communicate clearly, and take ownership of my work. I enjoy solving problems, thinking beyond the obvious, and finding better ways to build.
+I care about understanding the real problem first, then building something that actually makes sense for the people using it. For me, good engineering is not only about writing code. It is about thinking clearly, communicating well, choosing the right tools, and getting the job done properly.
 
-I do not believe in using tools just because they are popular.  
-I believe in understanding what needs to be built, then choosing the right tool for the job.
+I like figuring things out, improving through real work, and building with purpose.
 
-Still learning.  
-Still improving.  
-Still building.
+<br/>
 
 ---
 
 ## What I bring
 
-- A strong problem-solving mindset
-- A calm and reliable approach to work
-- Good communication and teamwork
-- The ability to learn fast and adapt
-- Care for the user and the final experience
-- A builder mindset focused on getting things done
-- The confidence to think differently when the obvious path is not enough
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Problem Solving
+
+I enjoy breaking down unclear problems, finding the core issue, and turning ideas into practical solutions.
+
+</td>
+<td width="50%">
+
+### 🤝 Team Mindset
+
+I work well with people, communicate clearly, and care about being reliable in a team.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛠️ Builder Energy
+
+I like moving from idea to execution. I care about getting things working, then improving them properly.
+
+</td>
+<td width="50%">
+
+### 🎯 User Focus
+
+I build with the user in mind. The goal is not just to make something look good, but to make it useful.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## Tech I work with
 
-<p align="left">
+I use different tools depending on the problem. The goal is not to force every tool into every project. The goal is to understand what needs to be built and choose the right tool for the job.
+
+<br/>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,postgres,python,tailwind,git,github,figma,vercel,supabase,vscode" />
 </p>
 
-I work with different tools depending on the problem.  
-The goal is not to use every tool. The goal is to use the right one well.
+<br/>
 
 ---
 
@@ -65,36 +89,30 @@ The goal is not to use every tool. The goal is to use the right one well.
 
 I believe consistency builds skill.
 
-I code, learn, test ideas, improve old work, and keep pushing myself through real practice. Every commit is part of the process.
+I code, learn, test ideas, fix what breaks, improve old work, and keep pushing myself through real practice. Every commit is part of the process.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prudentkurler&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prudentkurler&theme=transparent&hide_border=true" height="170" />
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prudentkurler&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prudentkurler&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prudentkurler&theme=github-compact&hide_border=true&area=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prudentkurler&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+<br/>
 
 ---
 
 ## How I think
 
-Good software starts with good understanding.
-
 Before building, I like to ask:
-- What problem are we solving?
-- Who is this for?
-- What will make this easier for the user?
-- What can break later?
-- How do we keep it simple and useful?
 
-That mindset helps me build with more care, not just more code.
-
----
-
-<div align="center">
-
-### Good products come from good thinking, steady effort, and care for the people using them.
-
-</div>
+```txt
+What problem are we solving?
+Who is this for?
+What will make this easier for the user?
+What can break later?
+How do we keep it simple, useful, and reliable?

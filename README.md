@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Prudentkurler&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
+</p>
+
 </div>
 
 <br/>
